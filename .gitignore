@@ -1,3 +1,5 @@
 .ccls-cache
 tmp/
+zig-cache/
+zig-out/
 
